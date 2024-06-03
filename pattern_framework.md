@@ -1,0 +1,15 @@
+# PERSONA
+
+# CONTEXT
+
+# TASK
+
+# EXEMPLAR
+
+# FORMAT
+
+# TONE
+
+# INPUT
+
+INPUT:
